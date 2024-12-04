@@ -12,6 +12,7 @@ int profit(vector<int>& prices)
     {
         return 0;
     }
+    
 
     int minPrice = prices[0]; 
     int maxProfit = 0;        
